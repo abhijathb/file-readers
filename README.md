@@ -1,2 +1,2 @@
-# file-readers
-Read different kind of files
+# financial-summary
+tracks finances and visualizes the flow
